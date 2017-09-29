@@ -1,0 +1,2 @@
+git remote add origin https://github.com/jabiggs13/jabiggs13.github.io.git
+git push -u origin master
